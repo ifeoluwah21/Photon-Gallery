@@ -5,4 +5,4 @@ Photon Gallery project from ["THE CREATIVE JAVASCRIPT COURSE"](https://youtu.be/
 ## Links
 
 - Live Site URL
-  photon-hall.netlify.app
+  https://photon-hall.netlify.app
